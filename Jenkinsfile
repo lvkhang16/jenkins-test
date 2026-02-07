@@ -12,7 +12,7 @@ pipeline {
         echo 'Testing...'
         echo 'Testing with joy'
     }
-  }
+  }} 
   
   post {
     success {
