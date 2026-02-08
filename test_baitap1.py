@@ -23,6 +23,6 @@ class TestCalculateFunctions(unittest.TestCase):
         # This test is not applicable here since we cannot simulate user input in this context.
         # Instead, we can test the function that processes user input separately.
         pass
-
+    
 if __name__ == '__main__':
     unittest.main()
